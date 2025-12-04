@@ -1,5 +1,10 @@
-# Timezone Meeting Planner
+# Time Zone Meeting Planner
 Simple tool to compare time zones and understand when to talk 🗣️
+
+**<https://monodot.github.io/time-zone-meeting-planner/>**
+
+> [!WARNING]
+> Created with LLM. May contain inaccuracies!
 
 Find the perfect meeting time across timezones. Visualize working hours and find overlapping time slots for international meetings.
 
