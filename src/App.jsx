@@ -20,6 +20,7 @@ const TimezoneMeetingPlanner = () => {
     { value: 'Asia/Shanghai', label: 'Shanghai' },
     { value: 'Asia/Singapore', label: 'Singapore' },
     { value: 'Asia/Dubai', label: 'Dubai' },
+    { value: 'Asia/Tel_Aviv', label: 'Tel Aviv' },
     { value: 'Australia/Sydney', label: 'Sydney' },
     { value: 'Pacific/Auckland', label: 'Auckland' },
     { value: 'Asia/Hong_Kong', label: 'Hong Kong' },
